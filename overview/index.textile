@@ -1,0 +1,17 @@
+---
+title: Overview
+author: technovation_admin
+layout: page
+attitude_sidebarlayout:
+  - no-sidebar-full-width
+---
+This section describes the chronological structure to be followed in an academic year. Further details are provided in the following sections
+
+1.  Applications for team leaders would be invited. Leaders have to propose a problem and a solutions. Applications would be accepted upon submission of an abstract
+2.  Team leaders would then be selected on the basis of an interview. Team leaders have to furnish a list of open positions for induction of ‘Team Members’ into his team. Specific roles are defined for each open position
+3.  Students apply for open positions and are selected on the basis of an interview. In the first phase students from 2nd year onwards are allowed.
+4.  Work begins and is monitored in Monthly Review Meetings.
+5.  A documentation is maintained along with pictures and video clippings on a project management system. This is updated at least fortnightly.
+6.  In next semester another list of open positions would be submitted by team leaders. These positions would be targeted at freshmen.
+7.  Work continues and is monitored in Monthly Review Meetings.
+8.  Projects are expected to be completed in a year for demonstration. These would be evaluated and the future of the team and projects would be decided on a case to case basis.

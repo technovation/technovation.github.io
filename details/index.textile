@@ -1,0 +1,8 @@
+---
+title: Details
+author: technovation_admin
+layout: page
+cl4: active
+attitude_sidebarlayout:
+  - no-sidebar-full-width
+---

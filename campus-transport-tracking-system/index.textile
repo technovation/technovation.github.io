@@ -1,0 +1,144 @@
+---
+title: Campus Transport Tracking System
+author: technovation_admin
+layout: page
+attitude_sidebarlayout:
+  - no-sidebar-full-width
+---
+<div id="maincontent-l">
+  <div id="maincontent-r">
+    <div id="maincontent-surround">
+      <div>
+        <div id="maincontent-block">
+          <div>
+            <div id="page">
+              <p>
+                Campus Transport Tracking System
+              </p>
+              
+              <div>
+              </div>
+              
+              <div>
+                <strong>Project Leads</strong> : Jithendar Anumula, Sampath Satti<img alt="londonbus813" src="http://stab-iitb.org/images/stories/londonbus813.jpg" width="300" height="191" />
+              </div>
+              
+              <div>
+              </div>
+              
+              <div>
+                <strong>Abstract</strong> : Design a system that tracks moving vehicles within a space and gets the location approximately in real time. This system will be modified and adapted for the Tum-Tums in the institute.
+              </div>
+              
+              <div>
+                <strong>Problems Faced</strong>:
+              </div>
+              
+              <div>
+                1.Non Plain Terrain
+              </div>
+              
+              <div>
+                2.Tree cover
+              </div>
+              
+              <div>
+                3.Monsoon season
+              </div>
+              
+              <div>
+                4.Reliability
+              </div>
+              
+              <div>
+              </div>
+              
+              <div>
+                <strong>Past attempts in the project</strong> :
+              </div>
+              
+              <div>
+                1. Procuring position through GPS and transmitting through GPRS modules.
+              </div>
+              
+              <blockquote>
+                <div>
+                  -Cost is an issue &#8211; both upfront and recurring,
+                </div>
+                
+                <div>
+                  -This will be very similar to the GPS trasceivers that are commercially available.Hence we feel it&#8217;ll not be an innovation, just a hack.
+                </div>
+                
+                <div>
+                  -Availability of the GPS signal strength will have to tested
+                </div>
+                
+                <div>
+                  -The system will be robust and reliable, as either GPS position measurement or transmission is error free
+                </div>
+              </blockquote>
+              
+              <p>
+                2. Using Xbees abd Ethernet modules
+              </p>
+              
+              <blockquote>
+                <div>
+                  The buses and stops are loaded with Xbees, and position of the bus can be approximated to the nearest bus stop. From there, data is transmitted over Ethernet cables to the web, where data is processed and sent back over Ethernet again
+                </div>
+                
+                <div>
+                  -Wired solution is not feasible in monsoons
+                </div>
+                
+                <div>
+                  -Too much interdependence on other organisations like CC and others
+                </div>
+                
+                <div>
+                  -Unsure of cable costs
+                </div>
+              </blockquote>
+              
+              <div>
+              </div>
+              
+              <p>
+                <strong>Report / Current Status</strong>
+              </p>
+              
+              <div>
+              </div>
+              
+              <div>
+                Using Xbees to build a mesh network
+              </div>
+              
+              <div>
+                Xbee Series 2.5 modules can be used to construct a mesh with multiple nodes. Each bus stop and bus constitute the nodes. Transmitter station can be put up in places where the mesh is unfinished / weak
+              </div>
+              
+              <div>
+              </div>
+              
+              <p>
+                The status is currently based around working the specifics of the network. Now the prototyping will follow
+              </p>
+            </div>
+            
+            <p>
+              &nbsp;
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="maincontent-bm">
+</div>

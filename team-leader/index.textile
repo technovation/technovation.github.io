@@ -1,0 +1,161 @@
+---
+title: Team Leader
+author: technovation_admin
+layout: page
+attitude_sidebarlayout:
+  - no-sidebar-full-width
+---
+<ol id="internal-source-marker_0.17650804903163642">
+  <ol>
+    <li>
+      Powers <ol>
+        <li>
+          To modify the problem statement or approach.
+        </li>
+        <li>
+          Create positions for team members, with freedom to introduce more positions or discard positions
+        </li>
+        <li>
+          Select team members
+        </li>
+        <li>
+          Remove a team member (procedure listed below)
+        </li>
+      </ol>
+    </li>
+  </ol>
+</ol>
+
+<ol start="2">
+  <ol start="2">
+    <li>
+      Duties <ol>
+        <li>
+          Submitting project abstract and following it during completion of project
+        </li>
+        <li>
+          Taking responsibility for actions of the whole team and completion of project
+        </li>
+        <li>
+          Accountable for reimbursements requested during completion of project
+        </li>
+        <li>
+          Attending monthly review meetings and bringing whole team to it. Presentation/Demo may be delegated to other team members.
+        </li>
+        <li>
+          Maintain written documentation of the whole project. Media documentation (pictures and videos) are also required. All of these are to be presented in Monthly Review Meetings and updated online fortnightly
+        </li>
+      </ol>
+    </li>
+    
+    <li>
+      Selection <ol>
+        <li>
+          Eligibility Criteria <ol>
+            <li>
+              The person should have completed at least 2 semesters in IIT Bombay
+            </li>
+          </ol>
+        </li>
+        
+        <li>
+          Judging Criteria <ol>
+            <li>
+              Sufficient technical knowledge in all fields pertaining to solving the problem.
+            </li>
+            <li>
+              Leadership Qualities
+            </li>
+            <li>
+              Completed Technical Projects
+            </li>
+          </ol>
+        </li>
+        
+        <li>
+          Procedure <ol>
+            <li>
+              The leader has to apply by submitting a project abstract and a statement of purpose
+            </li>
+            <li>
+              He shall be interviewed and scored by a jury comprising of Technovation Manager and STAB Team.
+            </li>
+            <li>
+              The person is selected if he happens to be in top ‘n’ candidates. ‘n’ is a stipulated number of projects to be accepted in the current academic year. For year 2012-13 n=8.
+            </li>
+            <li>
+              In case of overwhelming response ‘n’ may be increased subject to budget constraints and approval of STAB Team.
+            </li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+  </ol>
+</ol>
+
+<ol start="4">
+  <ol start="4">
+    <li>
+      Impeachment <ol>
+        <li>
+          In following cases a team leader may be impeached <ol>
+            <li>
+              Failure to show sufficient progress over 3 successive Monthly Review Meetings despite intent to complete the project.
+            </li>
+          </ol>
+        </li>
+        
+        <li>
+          Procedure. <ol>
+            <li>
+              Team leader is given a chance to present his case in front of the whole STAB team.
+            </li>
+            <li>
+              If more than two-thirds STAB team votes against the team leader after a MRM then the team leader is impeached.
+            </li>
+            <li>
+              The post of team leader is opened to any person willing to lead the team (including other team members) and has completed at-least 2 semesters.
+            </li>
+            <li>
+              In case there are no candidates, the project is discarded and the components are allowed to be used by other projects.
+            </li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+  </ol>
+</ol>
+
+&nbsp;
+
+<ol start="5">
+  <ol start="5">
+    <li id="Abstract">
+      Project Abstract <ol>
+        <li>
+          Expectations &#8211;  Projects taken under technovation are expected to be innovative in nature. It could either be a new and unique combination of existing technologies or completely out of the box solutions for problems. Projects which have been executed previously and have existing documentation would also be accepted provided they are sufficiently challenging and/or a requirement for cheaper/local parts and technologies. However projects need to comply with the expectation of having enough content to last a year. Otherwise well documented projects could be asked to curtail to 4 month timeline.
+        </li>
+        <li>
+          Contents - <ol>
+            <li>
+              Problem Statement &#8211; This section describes what exactly is the problem solved by the project. It should also include the expected outcome after successful completion of the project.
+            </li>
+            <li>
+              Solution &#8211; This would describe how the team leader wishes to tackle the problem. It should be detailed and technically sound. It should also highlight the possible challenges and how they would be overcome.
+            </li>
+            <li>
+              Costs &#8211; Expected costs to be incurred.
+            </li>
+            <li>
+              Timeline &#8211; Which puts down monthly targets.
+            </li>
+          </ol>
+        </li>
+      </ol>
+      
+      <p>
+        *Technovation Manager is to be informed of all decisions and he holds the right to put a stay in case given reasons are not satisfactory
+      </p>
+      
+      <p>
+        &nbsp;</li> </ol> </ol>

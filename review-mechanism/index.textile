@@ -1,0 +1,56 @@
+---
+title: Review Mechanism
+author: technovation_admin
+layout: page
+cl3: active
+attitude_sidebarlayout:
+  - default
+---
+<ol id="internal-source-marker_0.17650804903163642">
+  <ol>
+    <li>
+      Monthly Review Meetings (MRM) <ol>
+        <li>
+          Purpose &#8211; A periodic review of the progress of a team, brainstorming and evaluation of progress.
+        </li>
+        <li>
+          Each team shall be given 10 minutes to present their progress with and 5 minutes for interaction with audience
+        </li>
+        <li>
+          Attendance by all team leaders and team members is mandatory.
+        </li>
+        <li>
+          Presentation Contents <ol>
+            <li>
+              Progress since last review meeting
+            </li>
+            <li>
+              Demonstration of whatever tangible has been achieved (prototype, model under construction, working model)
+            </li>
+            <li>
+              Costs incurred and corresponding bills
+            </li>
+            <li>
+              Setting target for the next 15 days in correspondence to next goal on the timeline
+            </li>
+          </ol>
+        </li>
+        
+        <li>
+          Bills for that month would be reimbursed subject to completion of documentation of whatever was presented.
+        </li>
+      </ol>
+    </li>
+    
+    <li>
+      Documentation <ol>
+        <li>
+          A Project management system will be set up and teams are required to upload documentation as soon as any work is done.
+        </li>
+        <li>
+          It shall be reviewed every 15 days, esp written and pictorial description.
+        </li>
+      </ol>
+    </li>
+  </ol>
+</ol>

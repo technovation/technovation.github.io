@@ -1,0 +1,92 @@
+<html xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <link href="/assets/favicon.ico" rel="icon" type="image/x-icon" />
+    <link href='http://fonts.googleapis.com/css?family=Mouse+Memoirs' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.css" media="screen">
+<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/assets/style.css">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../bower_components/bootstrap/assets/js/html5shiv.js"></script>
+      <script src="../bower_components/bootstrap/assets/js/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="/assets/jquery.js"></script>
+    <script  src="/assets/bootstrap/js/bootstrap.js" > </script>
+</head>
+<body>
+<div class="container">
+  <div>
+    <a href="/about"><img src="/assets/img/tech.png" /></a>
+  </div>
+  <br/>
+  <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container" style="width: auto">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li class="{{page.cl1}} dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="/about"><i class="icon-home icon-white"></i> &nbsp; About &nbsp;<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/team-leader">Team Leaders</a></li>
+                  <li><a href="/team-members">Team Members</a></li>
+                </ul>
+              </li>
+              <li class="{{page.cl2}}"><a href="/abstract-submission">Abstract Submission</a></li>
+              <li class="{{page.cl3}}"><a href="/review-mechanism">Review Mechanism</a></li>
+              <li class="{{page.cl4}}"><a href="/details">Details</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/artificial-instrumentalist">Artificial Instrumentalist</a></li>
+                  <li><a href="/balancing-skateboard">Balancing Skate Board</a></li>
+                  <li><a href="/peapod-mac-for-the-masses">Pea Pod Mac For MAsses</a></li>
+                  <li><a href="/robotic-chess">Robotic Chess</a></li>
+                  <li><a href="/campus-transport-tracking-system">Campus Transport Tracking System</a></li>
+                  <li><a href="/non-contact-thermometer">Non Contact Thermometer</a></li>
+                  <li><a href="/book-keeping-bot">Book Keeping Bot</a></li>
+                  <li><a href="/ornithopter">Ornithoper</a></li>
+                  <li><a href="/parinat"> Parinat </a></li>
+                  <li><a href="blindsight"> Blind Sight </a></li>
+                </ul>
+              </li>
+              <li class="{{page.cl5}}"><a href="/technovation-summer">Technovation Summer</a></li>
+            </ul>
+
+          </div><!-- /.nav-collapse -->
+        </div><!-- /.container -->
+      </div><!-- /navbar-inner -->
+    </div>
+
+  <br/>
+  <div class="page-header" style="text-align:center">
+    <h1> Technovation </h1>
+    <small>Don't Think outside the box, Break the Box </small>
+  </div>
+  <div class="row12">
+    {{ content }}
+  </div>
+  <br/>
+  <br/>
+
+</div>
+<footer class="footer">
+      <div class="container">
+        <p> Copyrighted by <a href="http://technovation.stab-iitb.org/"> Technovation IITB (2013)</a> </p>
+        <p> Created By <a href="http://github.com/prithvirajbilla">Prithviraj Billa </a> </p>
+        <p> Build with the tool  <a href="http://jekyllrb.com/"> Jekyll Rb </a> </p>
+        <ul class="nav">
+          <li><a href="http://blog.technovation.stab-iitb.org">Blog</a></li>
+          <li><a href="http://stab-iitb.org">Stab IITB </a></li>
+        </ul>
+      </div>
+    </footer>
+</body>

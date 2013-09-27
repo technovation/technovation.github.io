@@ -1,0 +1,33 @@
+---
+title: About
+author: technovation_admin
+layout: page
+cl1: active
+attitude_sidebarlayout:
+  - no-sidebar
+---
+
+  Did you ever have an innovative idea but you just couldn&#8217;t get it going? Innovative technologies are the foundation of everything existing around you whether its new iPhone or your credit cards. But innovating new technologies needs money, inspiring leaders, dedicated teams and experience. This is where technovation steps in.
+
+  What is Technovation?
+   Technovation is a platform for students to float innovative projects, recruit teams, get funded, find mentors and realize their dream projects. Put simply its an expressway to innovation.
+
+<p style="text-align: justify; ">
+  <strong>How to apply?</strong><br /> We believe passion, desire and willpower are the most important qualities to be successful and hence instead of floating projects, we are inviting students to pitch in their ideas and be team leaders. These ideas need to be submitted in the form of an abstract detailing the technical aspects (details can he found here). Best 8 innovative ideas with technologically sound solutions would be selected on the basis of an interview. Leaders will then be asked to announce profiles for team members in an orientation session and best candidates would be selected to form teams. Freshmen would be allowed to participate from the next semester.
+</p>
+
+<p style="text-align: justify; ">
+  <strong>Why Technovation?</strong><br /> Apart from the above mentioned benefits and the joy of innovation, you become a part of technical community and meet like-minded fighters. What&#8217;s more, you stand a good chance of receiving technical awards, Undergraduate Research Awards and of course a great innovation absolutely stands out in your resume.
+</p>
+
+<p style="text-align: justify; ">
+  <strong>What now?</strong><br /> Join our google group for regular updates<br /> <a title="Google group" href="https://groups.google.com/group/technovation-iitb" target="_blank">https://groups.google.com/group/technovation-iitb</a>
+</p>
+
+<p style="text-align: justify; ">
+  Apply for team leader<br /> prepare an abstract and get in touch with Technovation Manager
+</p>
+
+<p style="text-align: justify; ">
+  For further info contact<br /> Kunal Phalak<br /> Manager,Technovation<br /> 9167782655<br /> kunalphalakiit@gmail.com
+</p>

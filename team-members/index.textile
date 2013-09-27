@@ -1,0 +1,68 @@
+---
+title: Team Members
+author: technovation_admin
+layout: page
+attitude_sidebarlayout:
+  - no-sidebar-full-width
+---
+<ol id="internal-source-marker_0.17650804903163642">
+  <ol>
+    <li>
+      Role &#8211; As described by the team leader in list of open positions.
+    </li>
+    <li>
+      Selection <ol>
+        <li>
+          Eligibility Criteria <ol>
+            <li>
+              Any student of IIT Bombay who has completed at least 1 semester
+            </li>
+          </ol>
+        </li>
+        
+        <li>
+          Judging Criteria <ol>
+            <li>
+              Passion for the project
+            </li>
+            <li>
+              Adequate of technical skills for the particular post
+            </li>
+            <li>
+              Past experience
+            </li>
+          </ol>
+        </li>
+        
+        <li>
+          Selection Procedure <ol>
+            <li>
+              The student has to apply for a particular post in the list of open positions for a project.
+            </li>
+            <li>
+              He shall be interviewed by Technovation manager and team leader and chosen for the post if he is the best choice
+            </li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+    
+    <li>
+      Removal <ol>
+        <li>
+          Criteria &#8211; Null contribution towards project and/or frequent disobedience
+        </li>
+        <li>
+          Procedure - <ol>
+            <li>
+              The team leader proposes removal of a team member
+            </li>
+            <li>
+              If two-thirds majority if the team vote against the member he is removed from the team.
+            </li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+  </ol>
+</ol>

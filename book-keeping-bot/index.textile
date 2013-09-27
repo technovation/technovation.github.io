@@ -1,0 +1,15 @@
+---
+title: Book keeping Bot
+author: technovation_admin
+layout: page
+attitude_sidebarlayout:
+  - default
+---
+You can download it:-
+
+[bkb final][1]
+
+[<img class="alignnone size-medium wp-image-265" alt="poster_bkb" src="http://technovation.stab-iitb.org/wp-content/uploads/2013/07/poster_bkb.jpg" />][2]
+
+ [1]: http://technovation.stab-iitb.org/wp-content/uploads/2013/07/bkb-final.avi
+ [2]: http://technovation.stab-iitb.org/wp-content/uploads/2013/07/poster_bkb.jpg

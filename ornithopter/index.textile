@@ -1,0 +1,113 @@
+---
+title: Ornithopter
+author: technovation_admin
+layout: page
+attitude_sidebarlayout:
+  - no-sidebar-full-width
+---
+<p style="text-align: left;" align="center">
+  <strong>Abstract:</strong>
+</p>
+
+<p style="text-align: justify;">
+              In recent years the subject of wing vehicles propelled by flapping wings, also known as ornithopters, has been an area of interest because of its application to micro aerial vehicles (MAVs). These miniature vehicles seek to mimic small birds and insects to achieve never before seen agility in flight. This renewed interest has raised a host of new problems in vehicle dynamics and control to explore.
+</p>
+
+<p style="text-align: justify;">
+             The main objective of the project is to develop flapping wing model which will be capable of carrying certain payload in flight. The conceptual design of this ornithopter can be used for various future applications including military and surveillance objectives.  The purpose of this report is to shed light on newly developed conceptual design and control algorithms that can be implemented to control the vehicle.
+</p>
+
+**Timeline of the project**
+
+<table border="3" cellspacing="0" cellpadding="-10%">
+  <tr>
+    <td valign="top" width="319">
+      Till now
+    </td>
+    
+    <td valign="top" width="319">
+      Flapping wing model is developed  with really simple mechanism.
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="319">
+      22 September to 29 September
+    </td>
+    
+    <td valign="top" width="319">
+      a) Detailed design developmentb) Ordering components which are notavailable
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="319">
+      29 September to 6 October
+    </td>
+    
+    <td valign="top" width="319">
+      a) Development of gearboxb) Development of hinges and testingoscillatory motion
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="319">
+      6 October to 13 October (UnavailableComponents may be available by then.)
+    </td>
+    
+    <td valign="top" width="319">
+      a) Testing all available componentsb) Construction of wing structure andfuselage structure
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="319">
+      13 October to 20 October
+    </td>
+    
+    <td valign="top" width="319">
+      a) Integrating the complete modelb) Testing flight for first time!
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="319">
+      20 October to 30 October
+    </td>
+    
+    <td valign="top" width="319">
+      a) Optimizing obtained design forproper flightb) Applying some amount ofautonomous control if feasible
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="319">
+      November (end-sem time!)
+    </td>
+    
+    <td valign="top" width="319">
+      Not much work (!!)
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="319">
+      December
+    </td>
+    
+    <td valign="top" width="319">
+      a) Developing proper control law and asemi-autonomous ornithopter
+    </td>
+  </tr>
+</table>
+
+&nbsp;
+
+**Team and Contact Details  
+**Akshay Dandekar   *(Team leader)  
+*<dandekarakshay@gmail.com>  
+9869023742**                                                                                                                                                        **
+
+**   ***(\*details of team members not available\*)*
+
+&nbsp;

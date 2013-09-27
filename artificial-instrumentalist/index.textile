@@ -1,0 +1,81 @@
+---
+title: Artificial Instrumentalist
+author: technovation_admin
+layout: page
+attitude_sidebarlayout:
+  - no-sidebar-full-width
+---
+**** <img alt="" src="https://lh3.googleusercontent.com/AH12IuyQh11tUHTK2pAAst-cpdrOVq-Ocr0xNkLtHD3CVeA6xzdgHV-tyjYgo-gahakhUg1Hvir7xhIkP-lulZvlgMouXQ3fplDarrMX61p9mE_aOsrnQqrWFo0rTBQhiw" width="623px;" height="467px;" />****
+
+<p dir="ltr">
+  The above is a snap shot from &#8220;Future Retro&#8221; by Animusic, an American company that specializes in making animated videos where unrealistic instrument playing bots sync their motion with a background MIDI track &#8211; something that has captivated millionsof viewers globally for many years.
+</p>
+
+<p dir="ltr">
+  Although the designs of these bots are very interesting, there have been very few attempts to recreate Animusic bots in the real world, the closest being Intel&#8217;s version of Pipe Dreams.
+</p>
+
+<p dir="ltr">
+  At Artificial Instrumentalist, we&#8217;re aiming to make a smart drumming robot based on the &#8220;Future Retro&#8221; drummer depicted above.
+</p>
+
+<p dir="ltr">
+  <strong>The journey so far:</strong><br /> We&#8217;ve made many miniature striking mechanism prototypes and tested them for impact force and speed, and in Techfest 2013,we exhibited our first complete drummer prototype based on servo motors: <img alt="" src="https://lh6.googleusercontent.com/FNbi44UvtgkKLAO16xO5nxDaP1yXzhbiv4Vl16OmbWdvM3Px0flUw3nNpol7LsFxHUGHgmPU6zLKksxq6Hba3FI8NxUG6WgVo1-AtYVb0W8cyjQFNZ3ye5qsh3btNwSKJw" width="622px;" height="466px;" />
+</p>
+
+<p dir="ltr">
+  However, servo motors faced a thermal breakdown in this application, and the design had load distribution issues, hence we made many improvements to the design, tested out more striking mechanisms, and after several CAD&#8217;s and brainstorming sessions, are close to completing the fabrication process for the new prototype, which will be followed by assembly and testing in summers.
+</p>
+
+<p dir="ltr">
+  On the coding front, development of a user-friendly interface for sending beat sequences to the bot is in progress.
+</p>
+
+<p dir="ltr">
+  <strong>Team Leaders:</strong>
+</p>
+
+<a href="http://technovation.stab-iitb.org/artificial-instrumentalist/a/" rel="attachment wp-att-159"><img class=" wp-image-159 alignright" alt="a" src="http://technovation.stab-iitb.org/wp-content/uploads/2013/04/a-300x300.jpg" width="180" height="180" /></a>
+
+<p dir="ltr">
+  <strong>Ashay Tejwani</strong>
+</p>
+
+<p dir="ltr">
+  A tech enthusiast and multi-instrumentalist, he has lead a large number of projects to completion and was recently awarded Technical Person of the Year. Currently working on three Technovation projects as head and mentor.
+</p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<img class="alignright" alt="b" src="http://technovation.stab-iitb.org/wp-content/uploads/2013/04/b-300x300.jpg" width="180" height="180" />
+
+**Rhythima Shinde**  
+Currently working as Design Engineer of Drivetrain at IITB Racing Team,she has spearheaded the entire mechanical aspect of A.I. diligently. Apart from good technical skills, she is also a great vocalist and has a keen interest in designing and fine art .
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**Selection criteria:**
+
+<p dir="ltr">
+  <strong>Primary:</strong> Enthusiasm
+</p>
+
+<p dir="ltr">
+  <strong>Secondary (Profile specific skill set for):</strong>
+</p>
+
+1.  Mechanical: CAD, fabrication, testing and simulation of the prototype
+2.  Electronics: Circuitry for controlling actuators and working on a new control system
+3.  Coding Profile:Drum Beat Transcription & Interface development, integration with bot.
+
+**** ******Interested?**
+
+In case you wish to apply,  reach out to us at <ashaytejwani@gmail.com> or <rhythimashinde@gmail.com>. Selection via interviews.

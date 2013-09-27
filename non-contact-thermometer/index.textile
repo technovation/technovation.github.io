@@ -1,0 +1,69 @@
+---
+title: Non Contact thermometer
+author: technovation_admin
+layout: page
+attitude_sidebarlayout:
+  - default
+---
+**Abstract **
+
+Measuring temperature of something without touching the surface or body has great application. Imagine measuring temperature of noxious or flammable chemicals in lab without going near them. Ever wondered how temperature of the stars is calculated? The answer to all these is “emissivity”.
+
+The aim of the project is to make a gadget for calculating emissivity with minimum error possible. The next step is to make Non-Contact temperature measuring device using the theory of ‘Ratio Pyrometry’ and the calculated emissivity. This also includes improving and enhancing the device to accommodate wider temperature range and more accuracy and precision.
+
+The next step is really challenging. This aims at developing process for “thermal imaging”.
+
+**Timeline of the project**
+
+<table border="1" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" width="308">
+      30 September to 30 October
+    </td>
+    
+    <td valign="top" width="308">
+      To get accurate emissivity
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="308">
+      1 November to 15 December
+    </td>
+    
+    <td valign="top" width="308">
+      To get the correction factor and temperature
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="308">
+      16 December to 15 January
+    </td>
+    
+    <td valign="top" width="308">
+      To get accuracy and precision in measurement
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="308">
+      <strong>Thermal imaging</strong>
+    </td>
+    
+    <td valign="top" width="308">
+      <strong> </strong>
+    </td>
+  </tr>
+</table>
+
+**Team members**
+
+Chaitanya Mokashi  
+Chemical Engg  
+<chaitanya.mokashi@gmail.com>  
+99201343147
+
+Dhawal Goyal  
+Chemical Engg  
+9967390046

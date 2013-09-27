@@ -1,0 +1,68 @@
+---
+title: Technovation Summer
+author: technovation_admin
+layout: page
+cl5: active
+attitude_sidebarlayout:
+  - no-sidebar-full-width
+---
+## <span style="color: #0000ff;"><b>Artificial Instrumentalist </b></span>
+
+<span style="color: #000000;"><strong>Eligibility Criteria:</strong></span>
+
+<span style="text-decoration: underline;">Primary:</span>
+
+*   Enthusiasm
+
+<span style="text-decoration: underline;">Profile Specific:</span>
+
+1.  Mechanical Profile: 
+    *   CADing
+    *   Fabrication and Assembly
+    *   Testing
+    *   Simulation of the model
+2.  Electronics Profile: 
+    *   Circuitry for controlling actuators
+    *   Developing a new control system
+3.  Coding Profile: 
+    *   Drum Beat Transcription
+    *   Interface development
+    *   Integration with bot
+
+*Selection Criteria*: Short Interview with Team Leaders
+
+http://technovation.stab-iitb.org/artificial-instrumentalist/
+
+&nbsp;
+
+## <span style="color: #0000ff;"><b>Campus Transport Tracking System</b></span>
+
+**Eligibility Criteria:**
+
+1.  Software Profile: 
+    *   Uploading data(bus position information) to database so that can be fetched and used by android and web applications
+    *   Eligibility : good with PHP and Databases
+2.  Electronics Profile: 
+    *   Arduino with Ethernet module to directly upload in database
+    *   PCB designing and circuit testing
+    *   Eligibility :
+    *   PCB designing skills
+    *   Circuit debugging
+
+*Selection Criteria*: Short Interview with Team Leader
+
+http://technovation.stab-iitb.org/campus-transport-tracking-system/
+
+&nbsp;
+
+## <span style="color: #0000ff;"><b>BlindSight</b></span>
+
+**Eligibility Criteria** :
+
+Basic elec / coding background , prior experience with microcontrollers and sensors [preferred, but not compulsory]  and are enthusiastic about the project
+
+*Selection Criteria* : Short Interview with Team Leader
+
+** **
+
+**<span style="color: #0000ff;">Register here</span>** :**  https://technovation.typeform.com/to/q2yxAF**

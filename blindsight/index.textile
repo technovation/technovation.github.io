@@ -1,0 +1,82 @@
+---
+title: BlindSight
+author: technovation_admin
+layout: page
+attitude_sidebarlayout:
+  - no-sidebar-full-width
+---
+<p dir="ltr">
+  Our idea is to develop a unique ‘sixth sense’ which will enable a blind person to be able to navigate in the real world with relative ease.
+</p>
+
+<p dir="ltr">
+  <strong>Abstract:</strong>
+</p>
+
+<p dir="ltr">
+  In order to achieve this, we have two main mechanisms:
+</p>
+
+<li dir="ltr">
+  <p dir="ltr">
+    Surface analyzing shoes: It will alert the person if there is something in front of him more than his foot size.
+  </p>
+</li>
+
+<li dir="ltr">
+  <p dir="ltr">
+    Spatial object distance: We plan to have sensors attached to different parts of the body such as the waist to find out distance of all objects around the user in real time.
+  </p>
+</li>
+
+<p dir="ltr">
+  Based on the unevenness of the surface or the proximity of an obstacle, we will actuate pager motors spaced out at intervals of 10 degrees on a belt with proportional intensity.
+</p>
+
+Later, based on the rate at which an object is approaching the user, we can set better thresholds (eg. if a kid is running towards the user, we will get a rapid change in distance, so we can actuate that direction’s pager motor in a particular pattern to give an indication that something is rapidly approaching the user.)
+
+<p dir="ltr">
+  Once this basic setup is ready, we can also incorporate GPS so that the user gets signals which guide him/her to a particular location or add sound based I/O’s / incorporate Braille based control systems.
+</p>
+
+<p dir="ltr">
+  Timelines:
+</p>
+
+<p dir="ltr">
+  First 2-3 weeks on surface analyzing shoe and its testing  and next 3 weeks on belt and remaining time for experiments and in incorporating GPS system.
+</p>
+
+<p dir="ltr">
+  <strong>Current Team members:</strong>
+</p>
+
+<p dir="ltr">
+  Nimish Kulkarni, Mayur Kalambe, Prathamesh Gaitonde
+</p>
+
+<p dir="ltr">
+  Looking for people:
+</p>
+
+<p dir="ltr">
+  Having some knowledge of electronics, sensors, and are enthusiastic about the project.
+</p>
+
+<p dir="ltr">
+  <strong>Team leader:</strong>
+</p>
+
+<p dir="ltr">
+  Chaitanya Mokashi and Nooruddin Kapadia
+</p>
+
+<p dir="ltr">
+  <strong>Official mentor :</strong>
+</p>
+
+<p dir="ltr">
+  Ashay Tejwani
+</p>
+
+&nbsp;

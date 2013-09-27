@@ -1,0 +1,16 @@
+---
+title: Abstract Submission
+author: technovation_admin
+layout: page
+cl2: active
+attitude_sidebarlayout:
+  - no-sidebar-full-width
+---
+Project Abstract
+
+1.  Expectations –  Projects taken under technovation are expected to be innovative in nature. It could either be a new and unique combination of existing technologies or completely out of the box solutions for problems. Projects which have been executed previously and have existing documentation would also be accepted provided they are sufficiently challenging and/or a requirement for cheaper/local parts and technologies. However projects need to comply with the expectation of having enough content to last a year. Otherwise well documented projects could be asked to curtail to 4 month timeline.
+2.  Contents - 
+    1.  Problem Statement – This section describes what exactly is the problem solved by the project. It should also include the expected outcome after successful completion of the project.
+    2.  Solution – This would describe how the team leader wishes to tackle the problem. It should be detailed and technically sound. It should also highlight the possible challenges and how they would be overcome. It should reflect the seriousness with which you have done your groundwork.
+    3.  Costs – Expected costs to be incurred.
+    4.  Timeline – Which puts down monthly targets.
